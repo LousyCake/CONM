@@ -9,7 +9,6 @@ This repository contains Python implementations of various numerical methods and
 1. [Algorithms](#algorithms)
 2. [Usage](#usage)
 3. [Contributing](#contributing)
-4. [License](#license)
 
 ## Algorithms
 
@@ -91,9 +90,9 @@ To use any of these algorithms, follow these general steps:
 
 1. Clone this repository to your local machine:
 
-   ```bash
+   ```
    git clone https://github.com/LousyCake/CONM.git
-
+   ```
 
 1. Navigate to the specific algorithm's Python file (e.g., newton_raphson.py, bisection.py, etc.) that you want to use.
 
@@ -109,13 +108,6 @@ Contributions to this repository are welcome! If you'd like to contribute:
 1. Fork the repository to your GitHub account.
 
 2. Clone the forked repository to your local machine:
-   ```bash
+   ```
    git clone https://github.com/LousyCake/CONM.git
-
-   
-## License
-This repository is licensed under the MIT License. Please refer to the LICENSE file for more details.
-
-Feel free to explore and utilize these numerical methods and interpolation algorithms in your projects. If you have any questions or encounter issues, please don't hesitate to open an issue or reach out for assistance.
-
-
+   ```
